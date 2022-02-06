@@ -1,0 +1,7 @@
+[submodule "airflow"]
+	path = airflow
+	url = git@github.com:Oracy/airflow.git
+
+[submodule "debug_notebooks"]
+	path = debug_notebooks
+	url = git@github.com:Oracy/debug_notebooks.git
