@@ -5,3 +5,7 @@
 [submodule "debug_notebooks"]
 	path = debug_notebooks
 	url = git@github.com:Oracy/debug_notebooks.git
+
+[submodule "data_source"]
+	path = data_source
+	url = git@github.com:Oracy/data_source.git
