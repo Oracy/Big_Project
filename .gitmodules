@@ -9,3 +9,7 @@
 [submodule "data_source"]
 	path = data_source
 	url = git@github.com:Oracy/data_source.git
+
+[submodule "metabase"]
+	path = metabase
+	url = git@github.com:Oracy/metabase.git
