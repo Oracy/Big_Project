@@ -12,9 +12,9 @@ Postgres was choose because it is a very knowledge database, we have a postgres 
 S3 can storage data and load through it to Redshift tables, being a staging area.
 And Metabase is an open source project to create visualization with easy way and eficient resources to create dashboards to show final result.
 
-### Execução do Projeto
+### Project Execution
 
-O projeto está totalmente baseado no Docker e Docker Compose, basta seguir os passos abaixo:
+The project is totally based on Docker, and docker-compose, you can follow steps below to execute.
 
 - To manage project with sh file:
 
