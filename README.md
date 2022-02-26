@@ -5,12 +5,17 @@
 - Postgres: https://www.postgresql.org/
 - MetaBase: https://www.metabase.com/
 - (WIP) S3: https://aws.amazon.com/s3/
+
+---
+
 #### Architecture
 
 Airflow was choose to orchestrate data pipeline because it can be flexible and can organize steps easily, if you need to escalate you can easy introduce distribute frameworks as spark.
 Postgres was choose because it is a very knowledge database, we have a postgres with Airflow execution data and another one separated to be used as data source and target database.
 S3 can storage data and load through it to Redshift tables, being a staging area.
 And Metabase is an open source project to create visualization with easy way and eficient resources to create dashboards to show final result.
+
+---
 
 ### Project Execution
 
