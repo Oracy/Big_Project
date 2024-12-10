@@ -24,6 +24,8 @@ The project is totally based on Docker, and docker-compose, you can follow steps
 - To manage project with sh file:
 
 ```sh
+# To get submodules
+git submodule update --init --recursive
 # To turn on
 $ chmod +x docker_compose_manager.sh
 $ ./docker_compose_manager.sh up
